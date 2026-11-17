@@ -1,0 +1,4 @@
+*.exe.WebView2/
+cloudflared.exe
+*.log
+*.db
